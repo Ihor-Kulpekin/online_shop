@@ -1,0 +1,8 @@
+.admin_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0b2b39;
+  height: 50px;
+  margin-bottom: 30px;
+}

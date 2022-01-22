@@ -1,0 +1,11 @@
+.adminContent {
+    margin: 0 auto;
+    max-width: 1600px;
+    width: 100%;
+    padding: 16px;
+}
+
+.wrapperInputBlock {
+    display: flex;
+    align-items: center;
+}

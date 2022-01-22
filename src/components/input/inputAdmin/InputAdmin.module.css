@@ -1,0 +1,16 @@
+.wrapper_input {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    max-width: 1600px;
+}
+
+.input_admin {
+    width: 90%;
+    height: 50px;
+    border-radius: 50px;
+    border-color: #0b2b39;
+    padding-left: 16px;
+    font-size: 20px;
+    margin-right: 16px;
+}

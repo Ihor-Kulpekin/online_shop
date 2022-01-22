@@ -1,0 +1,29 @@
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 16px;
+    width: 100%;
+}
+
+.menu_left, .menu_right {
+    display: flex;
+    align-items: center;
+}
+
+.menu_left {
+    justify-content: flex-start;
+}
+
+.menu_right {
+    justify-content: flex-end;
+}
+
+.menu_item {
+    margin-right: 15px;
+}
+
+.admin_text {
+    margin-right: 15px;
+}
